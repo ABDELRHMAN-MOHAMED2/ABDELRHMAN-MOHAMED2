@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻faculty of computers and informations <br>        Kafrelsheikh university<br><br>📱 Mobile app development student <br>  <br>Flutter development
+💻faculty of computers and informations <br>        Kafrelsheikh university<br><br>📱 Mobile app development student <br>  <br>Flutter development , N8N developer
 
 
 ## 🌐 Socials:
